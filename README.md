@@ -1,46 +1,126 @@
-# Getting Started with Create React App
+Why TypeScript + React?
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+With static type checking, you get to learn about potential bugs as you're typing the code, than heading to the browser and figuring out at runtime.
 
-## Available Scripts
+Provides a way to describe the shape of an object hence providing better documentation and autocomplete
 
-In the project directory, you can run:
+## Makes maintenance and refactoring of large code bases much easier.
 
-### `npm start`
+TypeScript is just frustrating most of the times.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+I have to write a lot more code than I normally do and the compiler keeps complaining. I simply don't know what to do about those errors.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+It doesn't seem to be productive for me.
 
-### `npm test`
+## About this course
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+You'll learn with examples, how to use TypeScript with React
 
-### `npm run build`
+It is not a course on TypeScript itself
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+You have to know the fundamentals of React
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Watch the React playlist on this channel
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+TypeScript for Beginners in 50 minutes
 
-### `npm run eject`
+## 1 - Introduction
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 2 - Getting Started
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 3 - Typing Props
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 4 - Basic Props
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 5 - Advanced Props
 
-## Learn More
+## 6 - Event Props
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 7 - Style Props
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 8 - Prop Types and Tips
+
+## 9 - useState Hook
+
+ok
+
+## 10 - useState Future value
+
+ok
+
+## 11 - useState Type Assertion
+
+ok
+
+## 12 - useReducer Hook
+
+ok
+
+## 13 - useReducer Strict Action Types
+
+ok
+
+## 14 - useContext Hook
+
+ok
+
+## 15 - useContext Future Value
+
+ok
+
+## 16 - useRef Hook
+
+ok
+
+## 17 - Class Component
+
+ok
+
+## 18 - Component Prop
+
+ok
+
+## 19 - Generic Props
+
+ok
+
+## 20 - Restricting Props
+
+ok
+
+## 21 - Template Literals and Exclude
+
+ok
+
+## 22 - Wrapping HTML Elements
+
+ok
+
+## 23 - Extracting a Components Prop Types
+
+ok
+
+## 24 - Polymorphic Components
+
+ok
+
+## 25 - Wrapping up
+
+ok
+
+## Course Summary
+
+- Basic & Advanced Props
+- Events & Styles
+- useState
+- useReducer
+- Context API
+- useRef
+- Class components
+- Component as props
+- Generics
+- Restricting props
+- Template literals & Exclude
+- Wrapping HTML & Omit
+- Extracting component prop types
+- Polymorphic components
